@@ -1,0 +1,222 @@
+{
+    "book": [
+      {
+        "id": 1,
+        "name": "WISE AND OTHERWISE",
+        "author": "Sudha Murthy",
+        "photograph": "https://i.postimg.cc/4yDQjrZ3/wiseand-Otherwise.jpg",
+        "price": "174 Rs",
+        "description": "A Salute to Life is a non-fiction book written by Sudha Murthy, chairperson of the Infosys Foundation and the wife of Narayan Murthy.",
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 4.5,
+            "comments":" Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "Morgan",
+            "date": "October 26, 2016",
+            "rating": 3.5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "Jason",
+            "date": "October 26, 2016",
+            "rating": 5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "IKIGAI",
+        "author": "Hector Garcia and Franscesc Miralles",
+        "photograph": "https://i.postimg.cc/y6y6x02D/ikigai.jpg",
+        "price": "330",
+        "description": "“Ikigai” is a Japanese word that means- a reason for living, a meaning for living. Having an ikigai means having a clear purpose that makes our life .",
+        "reviews": [
+          {
+            "name": "Steph",
+            "date": "October 26, 2016",
+            "rating": 4,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 4.5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "Sam",
+            "date": "October 26, 2016",
+            "rating": 3.5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "SECRET",
+        "author": "Rhonda Byrne",
+        "photograph": "https://i.postimg.cc/tRSfBTxr/secret.jpg",
+        "price": "199 Rs",
+        "description": "Regarded as a life-changing read by many readers, The Secret by Rhonda Byrne is a self-help book that embarks to motivate the reader about a universal paradigm about success that can be achieved through it remains hidden for most people. The book explores about unveiling this little secret which may transform how people look at things and lead them on to the road of success and true happiness.",
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 4.5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "ZS",
+            "date": "October 26, 2016",
+            "rating": 5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem? "
+          },
+          {
+            "name": "Emily",
+            "date": "October 26, 2016",
+            "rating": 2.5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "POWER OF SUBCONSCIOUS MIND",
+        "author": "Joseph Murphy",
+        "photograph": "https://i.postimg.cc/ryf67jvN/mind.jpg",
+        "price": "115 Rs",
+        "description": "The Power Of Your Subconscious Mind, a self-help book by Joseph Murphy, seeks to help its readers transform the way they live by transforming the way they think.",
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "Allen",
+            "date": "October 26, 2016",
+            "rating": 5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "David",
+            "date": "October 26, 2016",
+            "rating": 2.5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "ATOMIC HABITS",
+        "author": "James Clear",
+        "photograph": "https://i.postimg.cc/kM0H0HT8/atomic-Habit.jpg",
+        "price": "525 Rs",
+        "description": "James Clear, an expert on habit formation, reveals practical strategies that will teach you how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results. He draws on proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible",
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 4,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "Raymond",
+            "date": "October 26, 2016",
+            "rating": 4,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "Laurel",
+            "date": "October 26, 2016",
+            "rating": 4,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "ALCHEMIST",
+        "author": "Paulo Coelho",
+        "photograph": "https://i.postimg.cc/d0NH4N7h/alchemist.jpg",
+        "price": "269 Rs",
+        "description": " Paulo Coelho's masterpiece tells the magical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure as extravagant as any ever found.The story of the treasures Santiago finds along the way teaches us, as only a few stories can, about the essential wisdom of listening to our hearts following our dreams.",
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 3.5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "Michelle",
+            "date": "October 26, 2016",
+            "rating": 4.5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "Ai-Mei",
+            "date": "October 26, 2016",
+            "rating": 4,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "11 COMMAMNDMENTS OF MAXIMIZATION",
+        "author": "Santhosh Nair",
+        "photograph": "https://i.postimg.cc/3RgLMGCG/maximization.jpg",
+        "price": "247 Rs",
+        "description": "Eleven Commandments of Life Maximization does not claim to offer instant happiness, nor make us richer, thinner and youngerlooking, but it tells us the brutal truth of why we are where we are and how to live our life.",
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 4.5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "Gabriel",
+            "date": "October 26, 2016",
+            "rating": 5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "I AM OKAY YOU ARE OKAY",
+        "author": "Thomas A.Harris M.D",
+        "photograph": "https://i.postimg.cc/DZsN2HF8/iamOkay.jpg",
+        "price": "270 Rs",
+        "description": "This practical guide to Transactional Analysis is a unique approach to solving your problems. Hundreds of thousands of people have found this phenomenal breakthrough in psychotherapy a turning point in their lives.One of the world's best psychiatrists, Thomas A Harris, explains how to gain control of yourself, your relationships and your future",
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 4,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "Loren",
+            "date": "October 26, 2016",
+            "rating": 3.5,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          },
+          {
+            "name": "Lori",
+            "date": "October 26, 2016",
+            "rating": 4,
+            "comments": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, autem quibusdam incidunt debitis, nemo et consequatur alias voluptatem nobis molestiae quaerat aliquam facilis assumenda deleniti exercitationem delectus veniam. Quaerat, autem?"
+          }
+        ]
+      }
+    ]
+  }
